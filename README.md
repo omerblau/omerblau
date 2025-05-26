@@ -1,53 +1,53 @@
-<!-- Banner (replace with your own SVG/GIF/jpg) -->
-<p align="center">
-  <img src="<!---- /assets/header.svg -->" alt="Omer Blau – banner" width="100%" />
-</p>
-
-<h1 align="center">Hi 👋 I’m Omer Blau</h1>
-
-<p align="center">
-  Third-year CS student (B.Sc.) · graduating <strong>Aug 2025</strong><br/>
-  Available for full-time from <strong>July 2025</strong><br/>
-  C++ • Python • Low-level tinkerer • CTF enjoyer
-</p>
+# 💫 About Me
+Third-year CS student (B.Sc.) — graduating **Aug&nbsp;2025**, available full-time from **Jul&nbsp;2025**  
+Modern **C++ / Python** developer · Systems & tooling enthusiast · Occasional CTF solver
 
 ---
 
-## 🛠 Tech Stack
-
-| **Languages** | **Frameworks & Libs** | **Tools** | **OS / Env** |
-| :-----------: | :-------------------: | :-------: | :-----------: |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![SDL2](https://img.shields.io/badge/SDL2-004A77?style=for-the-badge&logo=SDL&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) | ![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows11&logoColor=white) ![WSL Ubuntu](https://img.shields.io/badge/WSL-Ubuntu%2022.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-blau/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omerblau@gmail.com)
 
 ---
 
-## 🌟 Featured Projects
+## 💻 Tech Stack
 
-| Project | Preview | Highlights |
-| ------- | ------- | ---------- |
-| **[Language Flipper](https://github.com/omerblau/language-flipper)** | <img src="<!---- /language-flipper/demo.gif -->" width="240"/> | • C++ WinAPI utility that converts ⌨️ Hebrew↔English keyboard-layout gibberish<br/>• Signed executable + JSON config |
-| **[Flash Element TD (ECS)](https://github.com/omerblau/Flash_Element_TD)** | <img src="<!---- /Flash_Element_TD/screenshot.png -->" width="240"/> | • Custom ECS engine in modern C++<br/>• SDL2 rendering, data-oriented design, waves & towers |
+### Languages & Scripting  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
 
-> _I love turning “wouldn’t-it-be-nice” ideas into small, sharp tools and games._
+### Web / API Frameworks  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&labelColor=gray)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+
+### Data / ML  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+
+### Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+
+### Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omerblau&show_icons=true&theme=tokyonight&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerblau&layout=compact&theme=tokyonight&hide=css,html" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omerblau&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
-</p>
-
----
-
-## 🤝 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omerblau)
-[![Gmail](https://img.shields.io/badge/Email-omerblau%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omerblau@gmail.com)
-
----
-
-### 🎵 Fun Fact  
-When I’m not coding, you’ll find me mixing EDM & trance melodies with classical motifs—or hiking with my Canaanite dog 🐕‍🦺.
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=omerblau&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omerblau&theme=dark&hide_border=false&layout=compact)
