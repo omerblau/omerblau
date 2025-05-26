@@ -1,6 +1,9 @@
-# 💫 About Me
-Third-year CS student (B.Sc.) — graduating **Aug&nbsp;2025**, available full-time from **Jul&nbsp;2025**  
-Modern **C++ / Python** developer · Systems & tooling enthusiast · Occasional CTF solver
+# 🌟 Hey there — I’m **Omer Blau**
+
+Third-year Computer Science student (B.Sc.)  
+Modern **C++ / Python** craftsman · **Data Science & Machine Learning** specialist  
+
+I enjoy exploring new tech with others and turning good ideas into practical, working solutions.
 
 ---
 
@@ -45,9 +48,3 @@ Modern **C++ / Python** developer · Systems & tooling enthusiast · Occasional 
 
 ### Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=omerblau&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omerblau&theme=dark&hide_border=false&layout=compact)
