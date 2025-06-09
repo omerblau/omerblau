@@ -1,6 +1,6 @@
-# 🌟 Hey there - I’m **Omer Blau**
+ # 🌟 Hey there - I’m **Omer Blau**
 
-Third-year Computer Science student (B.Sc.)  
+Computer Science (B.Sc.)  
 Modern **C++ / Python** software engeneer · **Data Science & Machine Learning** specialist  
 
 I enjoy exploring new tech with others and turning good ideas into practical, working solutions.
